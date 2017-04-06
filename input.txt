@@ -1,0 +1,11 @@
+CSPSZ: 3
+ELEMSZ: 5
+U1: 1 3 y y
+R1: 1 2 y y
+R2: 1 3 y y
+R3: 2 3 y y
+R4: 2 3 y y
+R3: I
+
+
+Feszültség legelöl mindig, ha nincs, áram!
